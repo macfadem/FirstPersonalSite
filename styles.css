@@ -71,8 +71,9 @@ header .social-nav {
 }
 
 .social-nav .sn-website{
-  background: url('./images/globe.svg') no-repeat 50% 50%;
-  background-color: rgb(12, 141, 44);
+  background: url('./images/fluidicon.png') no-repeat 50% 50%;
+  background-size: 24px 24px;
+  background-color: rgb(24, 24, 24);
 }
 
 section.about {
